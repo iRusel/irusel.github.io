@@ -1,0 +1,10 @@
+table": {
+        "1.0": {
+            "current": "1.0.0",
+            "announcement": "http://irusel.github.io",
+            "download": "https://github.com/iRusel/phpBB-HideTopicButtons",
+            "eol": null,
+            "security": false
+        }
+    }
+}
