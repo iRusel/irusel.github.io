@@ -1,0 +1,11 @@
+{
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0",
+            "announcement": "http://irusel.github.io",
+            "download": "https://github.com/iRusel/phpBB-RepostInSocial",
+            "eol": null,
+            "security": false
+        }
+    }
+}
