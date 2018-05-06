@@ -1,0 +1,11 @@
+{
+    "unstable": {
+        "1.0": {
+            "current": "1.0.0",
+            "announcement": "",
+            "download": "https://github.com/iRusel/iNewpost-Filter-phpBB",
+            "eol": null,
+            "security": false
+        }
+    }
+}
